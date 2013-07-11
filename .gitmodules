@@ -1,0 +1,3 @@
+[submodule "lib/activerecord"]
+	path = lib/activerecord
+	url = https://github.com/kla/php-activerecord.git
