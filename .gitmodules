@@ -4,3 +4,6 @@
 [submodule "lib/slim"]
 	path = lib/slim
 	url = https://github.com/codeguy/Slim.git
+[submodule "lib/strong"]
+	path = lib/strong
+	url = https://github.com/silentworks/Strong.git
