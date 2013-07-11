@@ -7,3 +7,12 @@
 [submodule "lib/strong"]
 	path = lib/strong
 	url = https://github.com/silentworks/Strong.git
+[submodule "lib/slim-extras"]
+	path = lib/slim-extras
+	url = https://github.com/codeguy/Slim-Extras.git
+[submodule "lib/twig"]
+	path = lib/twig
+	url = https://github.com/fabpot/Twig.git
+[submodule "lib/valitron"]
+	path = lib/valitron
+	url = https://github.com/vlucas/valitron.git
