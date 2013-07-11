@@ -1,3 +1,6 @@
 [submodule "lib/activerecord"]
 	path = lib/activerecord
 	url = https://github.com/kla/php-activerecord.git
+[submodule "lib/slim"]
+	path = lib/slim
+	url = https://github.com/codeguy/Slim.git
